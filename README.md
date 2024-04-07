@@ -9,7 +9,7 @@
 <img  alt="License"  src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-  <img width="200" src="https://git.ibict.br/cgti/whisper-server/-/wikis/uploads/126afea66c32e2bc62ed7e690f815183/Whisper2B.png">
+  <img width="200" src="./img/Whisper2B.png">
 
 <h1 align="center">Whisper Server</h1>
 
